@@ -2,10 +2,14 @@
 	"role":{
 		"name": "MCR",
 		"schema_privileges": [{
-		   "privileges": ["SELECT METADATA",
-		    			  "SELECT CDS METADATA"
+		   "privileges": ["SELECT METADATA"
 		   ]
 		}]
+		
+		
+		
+		
+		
 		
 
       }
